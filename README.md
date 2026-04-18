@@ -1,5 +1,8 @@
 **Experiment: Data Binning, Formatting, and Analysis using NumPy and Pandas**
 
+MAITREYEE UPADHYAY 
+25070123071
+
 
 **Aim**
 
